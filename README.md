@@ -191,5 +191,3 @@ Python-generated PDF reports summarizing:
 
 ### Reporting
 - Python PDF Automation
-
-```
