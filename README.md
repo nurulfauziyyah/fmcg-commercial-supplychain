@@ -193,9 +193,3 @@ Python-generated PDF reports summarizing:
 - Python PDF Automation
 
 ```
-
----
-
-## Author
-
-Nurul – Statistics Fresh Graduate | Data Analytics | Business Intelligence | Forecasting | Supply Chain Analytics
